@@ -1,2 +1,2 @@
 # Template_One
-https://mohammadalnaimi.github.io/template_one/lion.html
+https://mohammedalnaimi.github.io/template_one/lion.html
